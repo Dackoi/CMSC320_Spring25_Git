@@ -1,7 +1,7 @@
 
 # CMSC 320 Assignment 1: Introduction to Git and GitHub (Credit to Kobe Wang (kwwwv))
 
-Wellcum to your first 320 assignment!! This portion will introduce you to the basic functionalities of Git and GitHub. 
+Welcome to your first 320 assignment!! This portion will introduce you to the basic functionalities of Git and GitHub. 
 
 
 Here are some useful links that might be good to read through first
