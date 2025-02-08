@@ -5,3 +5,8 @@ Answer: Git's good at tracking and merging changes, even by multiple collaborato
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Any field where managing big data is important, like a job at the US Census Bureau.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the history from both branches, whereas rebasing applies the changes of the new branch on top of the other, making a linear project history.
