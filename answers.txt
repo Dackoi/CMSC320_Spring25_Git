@@ -10,3 +10,8 @@ Answer: Any field where managing big data is important, like a job at the US Cen
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves the history from both branches, whereas rebasing applies the changes of the new branch on top of the other, making a linear project history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to use Github and data analysis tools like Pandas. I am also excited to begin learning about ML.
+
