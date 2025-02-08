@@ -1,0 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: Git's good at tracking and merging changes, even by multiple collaborators.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Any field where managing big data is important, like a job at the US Census Bureau.
+
